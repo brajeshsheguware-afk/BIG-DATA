@@ -175,3 +175,12 @@ Replace the filename with any available binary partition.
 - Email Alert System
 - Performance Analytics
 - AI-Based Anomaly Detection
+
+---
+
+## AUTHOR
+
+K.BRAJESH SHEGUWARE
+II-BCA-'B'
+
+---
