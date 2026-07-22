@@ -1,0 +1,20 @@
+The Family Man,TV Show,2019,Drama
+Jai Bhim,Movie,2021,Drama
+Soorarai Pottru,Movie,2020,Drama
+Panchayat,TV Show,2020,Comedy
+Sardar Ka Grandson,Movie,2021,Comedy
+Suzhal,TV Show,2022,Crime
+Mirzapur,TV Show,2018,Crime
+Drishyam,Movie,2015,Thriller
+Andhadhun,Movie,2018,Thriller
+Breathe,TV Show,2018,Thriller
+Dahaad,TV Show,2023,Crime
+Raazi,Movie,2018,Drama
+Shershaah,Movie,2021,Action
+The Tomorrow War,Movie,2021,Action
+Farzi,TV Show,2023,Crime
+Made in Heaven,TV Show,2019,Drama
+Tumbbad,Movie,2018,Horror
+Parasyte,TV Show,2014,Horror
+The Boys,TV Show,2019,Action
+Pushpa,Movie,2021,Action

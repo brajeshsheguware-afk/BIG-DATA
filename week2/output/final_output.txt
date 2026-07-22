@@ -1,0 +1,10 @@
+Year: 2014 | Content Type: TV Show | Total Titles: 1
+Year: 2015 | Content Type: Movie | Total Titles: 1
+Year: 2018 | Content Type: Movie | Total Titles: 3
+Year: 2018 | Content Type: TV Show | Total Titles: 2
+Year: 2019 | Content Type: TV Show | Total Titles: 3
+Year: 2020 | Content Type: Movie | Total Titles: 1
+Year: 2020 | Content Type: TV Show | Total Titles: 1
+Year: 2021 | Content Type: Movie | Total Titles: 5
+Year: 2022 | Content Type: TV Show | Total Titles: 1
+Year: 2023 | Content Type: TV Show | Total Titles: 2
